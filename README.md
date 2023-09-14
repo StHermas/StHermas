@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StHermas
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Java, Python, and C++, Javascript, Golang
+- 🌱 I’m currently learning Java, Python, C++, Javascript, and Golang
 - 📫 Reach me on Twitter@HiHeikousen
 
 <!---
